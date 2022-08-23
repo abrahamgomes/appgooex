@@ -1,0 +1,12 @@
+{
+    "contacts": [
+      {
+        "id": 1,
+        "name": "Seth Ladd"
+      },
+      {
+        "id": 2,
+        "name": "Eric Seidel"
+      }
+    ]
+  }

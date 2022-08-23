@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "281845357218",
+    "firebase_url": "https://gooexapp.firebaseio.com",
+    "project_id": "gooexapp",
+    "storage_bucket": "gooexapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281845357218:android:bb04a17cc96d38b26015fb",
+        "android_client_info": {
+          "package_name": "br.com.gooex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281845357218-if5qhv669j65i3raa0j7b5dqdkro5v2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgSz8YDdXwcVy8y25bxNXLsBO95VJAWSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281845357218-if5qhv669j65i3raa0j7b5dqdkro5v2a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "281845357218-u4g20pmers15sod6sf2fm67k4gpg549m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gooexMobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281845357218:android:8ba8cff26890f3aa6015fb",
+        "android_client_info": {
+          "package_name": "com.example.gooex_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281845357218-if5qhv669j65i3raa0j7b5dqdkro5v2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgSz8YDdXwcVy8y25bxNXLsBO95VJAWSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281845357218-if5qhv669j65i3raa0j7b5dqdkro5v2a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "281845357218-u4g20pmers15sod6sf2fm67k4gpg549m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gooexMobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

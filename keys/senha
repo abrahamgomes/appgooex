@@ -1,0 +1,10 @@
+
+Alias -> gooex-upload
+senha: gooex#upload
+
+
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore keys/gooex-upload.keystore build/app/outputs/bundle/release/app-release.aab gooex-upload
+
+~/DevelopmentTools/android-sdk-mac/build-tools/29.0.2/zipalign -v 4 build/app/outputs/bundle/release/app-release.aab app.aab
+
+~/DevelopmentTools/android-sdk-mac/build-tools/29.0.2/apksigner sign --min-sdk-version 21 --ks ./keys/gooex-upload.keystore app.aab
